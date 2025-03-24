@@ -1,25 +1,46 @@
 ---
 layout: default
-title: About Me
+title: SQL 入门学习与实战 2025
 ---
 
 <img class="profile-picture" src="{{site.baseurl}}/{{site.profile-picture}}">
 
-I'm Dilbert. I've been working as a Software Engineer for over 30 years. I like to innovate to solve challenging problems using technology. I work with a great Engineering team, but we have a good-for-nothing and clueless manager, who can be replaced with a monkey and the change would be for the better.
+这是一门关于SQL的课程，帮助学生在一个月内了解SQL的基本知识，并结合具体的项目帮助学生了解如何利用SQL解决问题.
 
-On a personal front, I live with two amazing pets - Dogbert and Ratbert, and three dinasours - Bob, Rex and Dawn - who're hiding from the rest of the world. I'm single and have few friends due to my poor social skills, but I usually spend my time playing with computers and technology.
+### 建议
 
-### Life Advice
-Here are a few things I've learned over the years,
-> An optimist is simply a pessimist with no job experience.
+> 提前阅读材料,做好预习工作.
 
-> All of your co-workers are fools. You must learn to pity and tolerate them.
+> 课后完成作业及时巩固所学内容.
 
-> There are very few problems that can't be solved through a suitable application of high explosives.
+### 课程安排
 
-### Publications
-1. Dilbert, Ratbert: "Effects of having a dog and a dinasaur in the same house", _Journal of Wierd Studies_
-2. Alice, Dilbert, Wally: "Efficient ways to deal with a dumb manager", _Conference of Frustrated Engineers_
+第1周: SQL基础操作与表设计
+🎯 目标：掌握基本语法、数据操作语句、简单建表.
 
-### Contact Me
-No thanks, I have enough problems of my own to deal with.
+第一天 04/05/2025  3h
+数据库基础知识, 什么是SQL, 按照MySQL, 动手实践
+
+作业:
+MySQL 创建一个 “学生信息表”
+插入数据：INSERT INTO
+
+修改数据：UPDATE、DELETE
+
+第二天 04/06/2025  3h
+检索数据, SELECT, 检索单个/多个列
+
+作业:
+查询所有男生、分数大于80的学生
+
+第2周:
+
+第三天 04/05/2025  3h
+
+第四天 04/06/2025  3h
+
+第3周:
+
+第4周:
+
+
